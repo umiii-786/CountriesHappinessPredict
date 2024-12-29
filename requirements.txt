@@ -1,0 +1,6 @@
+seaborn 
+matlotlib
+numpy 
+pandas 
+streamlit
+pickle
